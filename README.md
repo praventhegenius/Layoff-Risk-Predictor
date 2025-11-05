@@ -56,6 +56,7 @@ Implemented and compared:
 * Decision Tree Regressor
 * Random Forest Regressor
 * CatBoost Regressor
+* XGBoost Regressor
 
 Each model was tuned using cross-validation for hyperparameter optimization.
 
